@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #F3F2E4;
+    overflow-x: hidden;
+}
+
+.header-menu ul li a.ativo {
+    color: #fff;
+}
+
+
+

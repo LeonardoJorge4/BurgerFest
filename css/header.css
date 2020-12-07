@@ -1,0 +1,38 @@
+.header {
+    position: fixed;
+	top: 0;
+	width: 100%;
+	background: #ffd7b2;
+	padding: 15px 0;
+    z-index: 10;
+}
+
+.header-menu {
+    text-align: right;
+}
+
+.header-menu ul li {
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.header-menu ul li a {
+    color: #e85c1f;
+    text-transform: uppercase;
+    font-weight: bold;
+	font-size: 18px;
+	line-height: 25px;
+	letter-spacing: .1em;
+	margin-top: 20px;
+}
+
+.header-menu ul li a:hover {
+    color: #fff;
+}
+
+.linha {
+    height: 14px;
+    width: 1px;
+    background: #e85b1f60;
+}
